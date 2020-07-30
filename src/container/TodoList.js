@@ -9,7 +9,7 @@ class TodoList extends Component {
     task: [
       { id: 1, name: 'Complete HOMEWORKS' },
       { id: 2, name: 'LEARN MUSIC' },
-      { id: 3, name: 'DOR THE KING' }
+      { id: 3, name: 'Eat ' }
     ],
     value: ''
   }
