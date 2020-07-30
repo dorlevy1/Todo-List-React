@@ -1,0 +1,27 @@
+.Td {
+    padding: 10px;
+    width: 100%;
+    /* border-radius: 3px; */
+    list-style: none;
+}
+
+.Tr {
+    margin: 3px 0px;
+    display: block;
+    width: 100%;
+    border: 1px solid rgba(128, 128, 128, 0.486);
+}
+
+.radius {
+    padding: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.486);
+    border-radius: 6px;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.Table {
+    margin: 0 auto;
+}
